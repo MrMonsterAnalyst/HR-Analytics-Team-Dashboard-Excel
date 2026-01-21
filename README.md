@@ -9,27 +9,18 @@ Developed an end-to-end HR Analytics Dashboard to monitor workforce health, attr
 Key Contributions & Insights
 
 Analyzed 171 total employees, tracking active headcount (118), attrition (47), attrition rate (27%), and internal transfers (6).
-
 Built headcount growth trend analysis (2020–2025) combining onboarding, attrition, and transfers to identify net workforce expansion and contraction periods.
-
 Evaluated diversity mix (62% male, 38% female) to highlight gender imbalance risk areas for DEI initiatives.
-
 Mapped workforce distribution by job level (Trainees, Professionals, Management, Contract) to assess talent pipeline maturity.
-
 Identified department-wise headcount concentration, highlighting Operations and Sales as high-dependency functions.
-
 Created manager-wise reporting funnel to detect uneven span of control and potential people-management bottlenecks.
-
 Analyzed employee stability by tenure, revealing higher concentration in early (≤2 years) and long-tenured (5+ years) segments—indicating mixed retention dynamics.
 
 Business Impact
 
 Enabled HR leadership to pinpoint high-attrition exposure areas instead of relying on aggregate attrition numbers.
-
 Supported workforce planning decisions by visualizing future headcount trends and role-level composition.
-
 Provided actionable inputs for retention strategy, diversity planning, and managerial load balancing.
-
 Replaced static HR reports with an interactive, slicer-driven dashboard, reducing manual reporting effort and turnaround time.
 
 Developed by: Bharat Sinha
